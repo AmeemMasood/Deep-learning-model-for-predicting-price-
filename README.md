@@ -72,3 +72,10 @@ Key Features
 ✔️ Multiple evaluation metrics
 ✔️ Performance visualizations
 ✔️ Clean end-to-end pipeline
+
+
+## ▶️ Open in Google Colab
+
+You can run this notebook directly in Google Colab:
+
+[Open in Colab](https://colab.research.google.com/drive/1o98NgPq3P3r3jFdJIL7hHHDlJrpYtXiY?usp=sharing)
